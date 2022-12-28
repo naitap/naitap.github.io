@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(234, 255, 252);
+}
+#welcome {
+    color: red;
+    text-align: center;
+    font-size:xx-large; 
+}
+.p {
+    text-align: center;
+}
