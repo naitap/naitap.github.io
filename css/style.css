@@ -4,8 +4,16 @@ body {
 #welcome {
     color: red;
     text-align: center;
-    font-size:xx-large; 
+    font-size:50px; 
 }
 .p {
     text-align: center;
+}
+a {
+    text-decoration: none;
+}
+#button {
+    width: 300px;
+    height: 35px;
+    background-color: rgb(221, 255, 253);
 }
