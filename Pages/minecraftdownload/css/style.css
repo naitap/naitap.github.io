@@ -9,22 +9,13 @@ a {
   text-align: center;
   float: left;
 }
-#left {
-  width: 300px;
-  height: 50px;
+
+#bu {
+  width: 500px;
+  height: 100px;
   text-align: center;
-  float: left;
   background-image: url(images/Grass_block.png);
-  color: rgb(255, 255, 255);
-  font-size: large;
-}
-#right {
-  width: 300px;
-  height: 50px;
-  text-align: center;
-  float: right;
-  background-image: url(images/Grass_block.png);
-  color: rgb(255, 255, 255);
+  color: rgb(209, 240, 203);
   font-size: large;
 }
 
@@ -39,7 +30,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: rgb(1, 167, 139);
 }
 
 li {
@@ -55,5 +46,5 @@ li a {
 }
 
 li a:hover {
-  background-color: #111;
+  background-color: rgb(109, 108, 108);
 }
