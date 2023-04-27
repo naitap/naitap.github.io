@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(234, 255, 252);
+}
+#welcome {
+    color: red;
+    text-align: center;
+    font-size:190%; 
+}
+.p {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+#button {
+    width: 300px;
+    height: 35px;
+    background-color: rgb(221, 255, 253);
+}

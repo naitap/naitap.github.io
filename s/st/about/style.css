@@ -26,16 +26,6 @@
     color: rgb(219, 250, 201);
 }
 
-#studio-name {
-    margin: 0%;
-    font-size: 9px;
-    text-align: center;
-}
-
-#studio-title-b {
-    font-size: 40%;
-}
-
 #footText {
     margin-left: 2%;
     margin-right: 2%;
@@ -51,11 +41,6 @@
 
 #footText #t2 {
     float: right;
-}
-
-#is_newS {
-    margin-top: 7%;
-    margin-left: 28%;
 }
 
 #NaiTap.Web.Studio {color: NaiTap Studio;}
